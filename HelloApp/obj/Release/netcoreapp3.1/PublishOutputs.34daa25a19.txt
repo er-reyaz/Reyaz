@@ -1,0 +1,7 @@
+D:\Training\Docker\HelloApp\HelloApp\obj\Release\netcoreapp3.1\PubTmp\Out\HelloApp.exe
+D:\Training\Docker\HelloApp\HelloApp\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\Training\Docker\HelloApp\HelloApp\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\Training\Docker\HelloApp\HelloApp\obj\Release\netcoreapp3.1\PubTmp\Out\HelloApp.dll
+D:\Training\Docker\HelloApp\HelloApp\obj\Release\netcoreapp3.1\PubTmp\Out\HelloApp.deps.json
+D:\Training\Docker\HelloApp\HelloApp\obj\Release\netcoreapp3.1\PubTmp\Out\HelloApp.runtimeconfig.json
+D:\Training\Docker\HelloApp\HelloApp\obj\Release\netcoreapp3.1\PubTmp\Out\HelloApp.pdb

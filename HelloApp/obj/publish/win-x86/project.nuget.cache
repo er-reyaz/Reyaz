@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vHxbK/6A54zCpLbggD4I5PmOX38c3iUybFF2g6lZ5JvL17QU3UqpM2+ob7hvhqxCD96nO+N+rI19gGcU6/QbFw==",
+  "success": true,
+  "projectFilePath": "D:\\Training\\Docker\\HelloApp\\HelloApp\\HelloApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\global\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.10\\microsoft.netcore.app.runtime.win-x86.3.1.10.nupkg.sha512",
+    "C:\\Users\\global\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.10\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.10.nupkg.sha512",
+    "C:\\Users\\global\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.10\\microsoft.aspnetcore.app.runtime.win-x86.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAM6N3eHhju0uL4UoqseQrvAAAAAACAAAAAAAQZgAAAAEAACAAAADOo4qtMhwVCfda7pe+j6xh9gNiI+eFAiOsgOUSbcwRrgAAAAAOgAAAAAIAACAAAAD19zWeE+ETG5PTw/fEKh1rsHhOSxV2C1SaXFqCgrT7USAAAAAsQo2ESlWyaMLgpkPd9Jz24qV6RwGCTdMGL1TmjCHmaUAAAAA0y1R6YU9WYfeoXlom2I0yYSF3Url5/Co5eHrvPi8Qf01RSMwJBx9JtyDpLgSiQqfqm/geyhMOlOZvnsNzM6ip</EncryptedPassword>
+    <_PublishTargetUrl>D:\Training\Docker\HelloApp\HelloApp\obj\Release</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
